@@ -1,0 +1,7 @@
+**/obj/
+/packages/
+
+*.exe
+**/bin/
+.idea/*
+*.userprefs
